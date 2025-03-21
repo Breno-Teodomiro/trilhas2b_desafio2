@@ -1,0 +1,30 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de log e saída
+*.log
+*.out
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados (planilhas, relatórios, gráficos, etc.)
+Analise_Desafio_2.xlsx
+Relatorio_Analise_Desafio_2.docx
+grafico_*.png
